@@ -2,7 +2,9 @@
 
 ## Added classes to classwork:
 [ChangeProductPriceDto.java](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/controller/dto/ChangeProductPriceDto.java)
+
 [ProductStatisticDto.java](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/controller/dto/ProductStatisticDto.java)
+
 [UserStatisticDto.java](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/controller/dto/UserStatisticDto.java)
 
 ## HomeTask:
