@@ -11,6 +11,8 @@
 3. Finish [UserServiceImpl.java](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/service/UserServiceImpl.java)
 4. Add classes and logic for implemets all methods in [AdminController.java](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/controller/AdminController.java)
 
+- For statistic you can use [OrderEntity](https://github.com/java-3-haifa/-74_01_08_19_Spring_Data_JPA_Spring_Security/blob/master/src/main/java/com/telran/telranshopspringdata/data/entity/OrderEntity.java) or create one more Entity for it
+
 ### Description for methods:
 
 *Method should add new Product and return ID which was generated for this product*
